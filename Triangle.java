@@ -1,4 +1,5 @@
 package javaprac;
+
 import java.util.*;
 
 public class Triangle {

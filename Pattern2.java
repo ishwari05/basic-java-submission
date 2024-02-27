@@ -1,3 +1,4 @@
+package javaprac;
 public class Pattern2 {
     public static void main(String[] args){
         //i for rows and j for columns      

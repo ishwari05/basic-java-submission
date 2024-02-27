@@ -1,3 +1,4 @@
+package javaprac;
 import java.util.*;
 public class Fibbonacci {
     public static void main(String[] agrs){

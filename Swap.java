@@ -1,4 +1,5 @@
 package javaprac;
+
 import java.util.*;
 public class Swap {
     public static void main(String[] args){
